@@ -10,4 +10,4 @@ hw(jan:2018).ipynb - ipython code for graphs of various functions (week one home
 
 Chargingcapacitor.html - plots the graph of charge(Q(t)) vs time(t) as discussed in prof. Phookun's class - Dependencies - Numpy and Matplotlib
 
-
+Charging+capacitor.ipynb - same program as above, in .ipynb form for ease
